@@ -1,6 +1,7 @@
 # Yoi Keiken OTT Platform
+![Yoi_Keiken_OTT_ppt pptx](https://github.com/shahishree03/OTT_/assets/54995727/c5e34070-3151-44b2-b11c-671a4f85ebfc)
 
-![Yoi Keiken](https://drive.google.com/file/d/1O-8skgyYzxDceRBbZ5s05ssK9x2GYu13/view?usp=drive_link) <!-- Replace with your project's logo -->
+ <!-- Replace with your project's logo -->
 
 ## Table of Contents
 
