@@ -1,6 +1,6 @@
 # Yoi Keiken OTT Platform
 
-![Yoi Keiken](https://via.placeholder.com/150x100.png) <!-- Replace with your project's logo -->
+![Yoi Keiken](https://drive.google.com/file/d/1O-8skgyYzxDceRBbZ5s05ssK9x2GYu13/view?usp=drive_link) <!-- Replace with your project's logo -->
 
 ## Table of Contents
 
