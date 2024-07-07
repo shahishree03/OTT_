@@ -30,11 +30,25 @@
 [![Watch the demo video](https://img.youtube.com/vi/your-syvMPwN3zjY/hqdefault.jpg)](https://www.youtube.com/watch?v=syvMPwN3zjY)
 <!-- Replace "your-video-id" with the actual YouTube video ID. -->
 
-## Tech Stack
+## :rocket: Technologies
 
-- **Frontend**: HTML, CSS, JavaScript
-- **Backend**: Firebase (Firestore, Authentication)
-- **API**: The Movie Database (TMDb) API
+- [TMDb API's](https://www.themoviedb.org/)
+- [React](https://reactjs.org/)
+- [React Hooks](https://reactjs.org/docs/hooks-intro.html)
+- [React Hooks Form](https://react-hook-form.com/)
+- [React Router](https://reactrouter.com/web/guides/quick-start)
+- [Redux](https://redux.js.org/)
+- [Redux Thunk](https://github.com/reduxjs/redux-thunk)
+- [Redux Saga](https://redux-saga.js.org/)
+- [Redux Persist](https://github.com/rt2zz/redux-persist)
+- [Redux Logger](https://github.com/LogRocket/redux-logger)
+- [Reselect](https://github.com/reduxjs/reselect)
+- [Firebase](https://firebase.google.com/)
+- [SCSS](https://sass-lang.com/)
+- [SwiperJS](https://swiperjs.com/react)
+- [Framer Motion](https://www.framer.com/motion/)
+- [React Icons](https://react-icons.github.io/react-icons/)
+- [Netlify](https://www.netlify.com) (have a look below) and [Vercel](https://vercel.com/) for the deploy and CI.
 
 ## Installation
 
